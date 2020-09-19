@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    ".luacheckrc": "lua",
+    "*.rockspec": "lua"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.obj": true,
+    "ldk/**": true,
+  },
+  "cSpell.customWorkspaceDictionaries": [
+    "project-dict",
+    "lua-dict"
+  ]
+}
